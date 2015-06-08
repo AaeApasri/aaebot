@@ -40,6 +40,7 @@ apiece = apiece.transpose(Image.ROTATE_180)
 canvas.paste(apiece.png,box)
 canvas.save("canvas.png")
 
+#mkkcldwkc;wec
 
 
 
